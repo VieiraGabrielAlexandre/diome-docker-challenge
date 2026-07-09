@@ -1,0 +1,20 @@
+# Aplicação HTML com Docker Compose e Apache
+
+Projeto desenvolvido para executar uma aplicação HTML, CSS e JavaScript em um container Apache utilizando Docker Compose.
+
+## Tecnologias
+
+- Docker
+- Docker Compose
+- Apache HTTP Server
+- HTML
+- CSS
+- JavaScript
+
+## Como executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/VieiraGabrielAlexandre/diome-docker-challenge.git
+cd diome-docker-challenge
