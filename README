@@ -18,3 +18,34 @@ Clone o repositório:
 ```bash
 git clone https://github.com/VieiraGabrielAlexandre/diome-docker-challenge.git
 cd diome-docker-challenge
+
+Suba o container:
+
+docker compose up -d
+
+Acesse no navegador:
+
+http://localhost:8080
+Como parar o container
+docker compose down
+Estrutura do projeto
+.
+├── docker-compose.yml
+├── README.md
+└── src
+    ├── index.html
+    ├── style.css
+    └── script.js
+Objetivo
+
+O objetivo deste projeto é demonstrar como executar uma aplicação web simples em um servidor Apache usando Docker Compose.
+
+
+Para executar:
+
+```bash
+docker compose up -d
+
+Depois acesse:
+
+http://localhost:8080
